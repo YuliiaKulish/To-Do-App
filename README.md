@@ -1,8 +1,8 @@
 # To-Do App
 
-A complete React Todo App with TypeScript that allows you to manage todos using an API. This project implements adding, deleting, renaming, and toggling the status of todos, including a “toggle all” feature. Each action shows a loader while waiting for the API response and displays error notifications in case of failure.
+A complete React To-Do App with TypeScript that allows you to manage to-dos using an API. This project implements the addition, deletion, renaming, and toggling of to-do statuses, including a “toggle all” feature. Each action shows a loader while waiting for the API response and displays error notifications in case of failure.
 
-The app demonstrates a fully functional React + TypeScript project with proper state management, API integration, and user-friendly interactions.
+The app showcases a fully functional React and TypeScript project, featuring proper state management, API integration, and user-friendly interactions.
 
 ## 🛠 Technologies Used
 
@@ -17,7 +17,7 @@ The app demonstrates a fully functional React + TypeScript project with proper s
 
 - Add a new todo
 - Delete individual todos
-- Toggle todo completed status
+- Toggle the todo completed status
 - Rename a todo on double-click (with Enter / Blur / Escape handling)
 - Toggle all todos using a “toggle all” checkbox (only updates changed todos)
 - Loader overlay on todos while waiting for API responses
